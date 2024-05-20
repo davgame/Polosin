@@ -1,0 +1,50 @@
+[
+	{
+		"id": 11,
+		"title": "Батон Аютинский Хлеб Нарезной пшеничный нарезка высший сорт",
+		"art": 36032,
+		"price": 39,
+		"imgSrc": "батон.png",
+		"modal": "open-modal-btn41"
+	},
+	{
+		"id": 22,
+		"title": "Хлеб Аютинский Хлеб Бородинский ржано-пшеничный нарезка",
+		"art": 22034,
+		"price": 31,
+		"imgSrc": "бородинский.png",
+		"modal": "open-modal-btn42"
+	},
+	{
+		"id": 33,
+		"title": "Хлеб Harry's American Sandwich сандвичный пшеничный",
+		"art": 28052,
+		"price": 109,
+		"imgSrc": "сандвичный.png",
+		"modal": "open-modal-btn43"
+	},
+	{
+		"id": 446,
+		"title": "Лаваш Mission Деревенский Вкусный",
+		"art": 38045,
+		"price": 104,
+		"imgSrc": "лаваш.png",
+		"modal": "open-modal-btn44"
+	},
+	{
+		"id": 55,
+		"title": "Булочка Золотой Колос с крем-брюле",
+		"art": 450435,
+		"price": 31,
+		"imgSrc": "булочка.png",
+		"modal": "open-modal-btn45"
+	},
+	{
+		"id": 66,
+		"title": "Слойка Аютинский Хлеб с вишней",
+		"art": 40044,
+		"price": 24,
+		"imgSrc": "слойка.png",
+		"modal": "open-modal-btn46"
+	}
+]
